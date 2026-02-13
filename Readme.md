@@ -17,7 +17,7 @@ This example shows how to print a document with custom printer settings in code.
 
 * [Print Documents in PDF Viewer](https://docs.devexpress.com/WindowsForms/115860/controls-and-libraries/pdf-viewer/printing)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=pdf-viewer-use-the-pdf-printer-settings-to-print-a-file&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=pdf-viewer-use-the-pdf-printer-settings-to-print-a-file&~~~was_helpful=no)
 
